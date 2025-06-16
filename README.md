@@ -21,8 +21,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
 ## 📊 My GitHub Stats:
-![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorDarmon&show_icons=true&theme=tokyonight&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorDarmon&layout=compact&theme=tokyonight)
-
+![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dordarmon2000&show_icons=true&theme=tokyonight&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dordarmon2000&layout=compact&theme=tokyonight)
