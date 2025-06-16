@@ -22,5 +22,5 @@
 
 ---
 ## 📊 My GitHub Stats:
-![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dordarmon2000&show_icons=true&theme=tokyonight&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dordarmon2000&layout=compact&theme=tokyonight)
+![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dor-darmon&show_icons=true&theme=tokyonight&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dor-darmon&layout=compact&theme=tokyonight)
