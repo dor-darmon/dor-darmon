@@ -1,17 +1,25 @@
-# Hi there 👋 I'm Dor
+# 👋 Hi there, I'm Dor Darmon
 
-👨‍💻 I'm a CS student @ Bar Ilan University  
-🚀 I'm currently working on a Gmail Advanced System Programming project  
-🎯 I'm passionate about system programming, AI, and full-stack web development  
-💬 Ask me anything related to Java, C++, Python or backend development  
-🏋️‍♂️ In my free time I love training at the gym and gaming 🎮  
-📫 How to reach me: dordarmon2000@gmail.com
+👨‍🎓 I'm a Computer Science student at Bar Ilan University  
+🚀 Currently working on: Gmail Advanced System Programming  
+💻 I love building backend systems, games, and full-stack apps  
+🎮 Hobbies: Gaming, working out at the gym, and learning new tech  
+📧 How to reach me: dordarmon2000@gmail.com
+
+---
 
 ## 🧰 My Tech Stack:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🏆 My GitHub Stats:
+---
+
+## 📊 My GitHub Stats:
 ![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorDarmon&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorDarmon&layout=compact&theme=tokyonight)](https://github.com/DorDarmon)
+
