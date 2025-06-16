@@ -4,7 +4,10 @@
 🚀 Currently working on: Gmail Advanced System Programming  
 💻 I love building backend systems, games, and full-stack apps  
 🎮 Hobbies: Gaming, working out at the gym, and learning new tech  
-📧 How to reach me: dordarmon2000@gmail.com
+📧 Reach me at: dordarmon2000@gmail.com  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/dordarmon)  
+📁 [My GitHub Portfolio](https://github.com/DorDarmon)
 
 ---
 
@@ -20,6 +23,6 @@
 ---
 
 ## 📊 My GitHub Stats:
-![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorDarmon&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorDarmon&layout=compact&theme=tokyonight)](https://github.com/DorDarmon)
+![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorDarmon&show_icons=true&theme=tokyonight&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorDarmon&layout=compact&theme=tokyonight)
 
