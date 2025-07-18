@@ -9,7 +9,48 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/dordarmon)  
 📁 [My GitHub Portfolio](https://github.com/DorDarmon)
 
+
+## 🚀 Featured Projects
+
+### ♟️ [Chess Game in Java](https://github.com/dor-darmon/Chess)
+> A fully functional chess engine written in Java with object-oriented design.  
+> Includes move validation, game logic, and a clean user interface.
+
+**Tech:** Java, OOP, Algorithms  
+**Highlights:**
+- Dynamic board updates
+- Legal move highlighting
+- Turn-based state management
+
 ---
+
+### 🧠 [J.A.R.V.I.S – Personal AI Assistant](https://github.com/dor-darmon/j.a.r.vi.s)
+> A command-line voice assistant that helps you control your PC with natural voice commands.
+
+**Tech:** Python, SpeechRecognition, pyttsx3, OS automation  
+**Highlights:**
+- Voice-controlled web search, apps, weather
+- Personal greeting system
+- Extensible architecture
+
+---
+
+### 💬 [WhatsApp Automation Bot](https://github.com/dor-darmon/WhatsAppBotAuto)
+> A WhatsApp bot with a GUI interface to send scheduled messages and interact with contacts.
+
+**Tech:** Python, pywhatkit, tkinter  
+**Highlights:**
+- GUI-based interface (no CLI)
+- SQLite database to store contacts and messages
+- Easily customizable for event reminders, campaigns, or auto-responses
+
+---
+
+## 📈 In Progress
+Stay tuned for:
+- 📬 Gmail Label Classifier with AI
+- 🛠️ Smart Mail Filter (Deep Learning-based)
+- 💈 Barbershop Booking System (React + Express + n8n)
 
 ## 🧰 My Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
