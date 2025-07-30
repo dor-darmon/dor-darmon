@@ -7,7 +7,6 @@
 📧 Reach me at: dordarmon2000@gmail.com  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dordarmon)  
-📁 [My GitHub Portfolio](https://github.com/DorDarmon)
 
 
 ## 🚀 Featured Projects
