@@ -47,9 +47,9 @@
 
 ##  In Progress
 Stay tuned for:
-- 📬 Gmail Label Classifier with AI
-- 🛠️ Smart Mail Filter (Deep Learning-based)
-- 💈 Barbershop Booking System (React + Express + n8n)
+-  Gmail Label Classifier with AI
+-  Smart Mail Filter (Deep Learning-based)
+-  Barbershop Booking System (React + Express + n8n)
 
 ##  My Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,6 +61,6 @@ Stay tuned for:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-## 📊 My GitHub Stats:
+##  My GitHub Stats:
 ![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dor-darmon&show_icons=true&theme=tokyonight&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dor-darmon&layout=compact&theme=tokyonight)
