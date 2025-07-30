@@ -1,17 +1,17 @@
-# 👋 Hi there, I'm Dor Darmon
+#  Hi there, I'm Dor Darmon
 
-👨‍🎓 I'm a Computer Science student at Bar Ilan University  
-🚀 Currently working on: Gmail Advanced System Programming  
-💻 I love building backend systems, games, and full-stack apps  
-🎮 Hobbies: Gaming, working out at the gym, and learning new tech  
-📧 Reach me at: dordarmon2000@gmail.com  
+ I'm a Computer Science student at Bar Ilan University  
+ Currently working on: Gmail Advanced System Programming  
+ I love building backend systems, games, and full-stack apps  
+ Hobbies: Gaming, working out at the gym, and learning new tech  
+ Reach me at: dordarmon2000@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/dordarmon)  
+ [LinkedIn](https://www.linkedin.com/in/dordarmon)  
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ♟️ [Chess Game in Java](https://github.com/dor-darmon/Chess)
+###  [Chess Game in Java](https://github.com/dor-darmon/Chess)
 > A fully functional chess engine written in Java with object-oriented design.  
 > Includes move validation, game logic, and a clean user interface.
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧠 [J.A.R.V.I.S – Personal AI Assistant](https://github.com/dor-darmon/j.a.r.vi.s)
+###  [J.A.R.V.I.S – Personal AI Assistant](https://github.com/dor-darmon/j.a.r.vi.s)
 > A command-line voice assistant that helps you control your PC with natural voice commands.
 
 **Tech:** Python, SpeechRecognition, pyttsx3, OS automation  
@@ -34,7 +34,7 @@
 
 ---
 
-### 💬 [WhatsApp Automation Bot](https://github.com/dor-darmon/WhatsAppBotAuto)
+###  [WhatsApp Automation Bot](https://github.com/dor-darmon/WhatsAppBotAuto)
 > A WhatsApp bot with a GUI interface to send scheduled messages and interact with contacts.
 
 **Tech:** Python, pywhatkit, tkinter  
@@ -45,13 +45,13 @@
 
 ---
 
-## 📈 In Progress
+##  In Progress
 Stay tuned for:
 - 📬 Gmail Label Classifier with AI
 - 🛠️ Smart Mail Filter (Deep Learning-based)
 - 💈 Barbershop Booking System (React + Express + n8n)
 
-## 🧰 My Tech Stack:
+##  My Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
