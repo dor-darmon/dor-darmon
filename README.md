@@ -11,6 +11,16 @@
 
 ##  Featured Projects
 
+###  [SentinelFlow | Ethereum Anomaly Detection](https://github.com/dor-darmon/SentinelFlow)
+> A real-time monitoring system designed to detect suspicious transaction patterns in the Ethereum Mempool using Unsupervised Machine Learning.
+
+**Tech:** Python, AsyncWeb3, Scikit-Learn (Isolation Forest), Redis, Docker, Streamlit  
+**Highlights:**
+- **Active Learning:** Human-in-the-loop feedback mechanism to retrain the model on the fly.
+- **Real-Time:** Monitors pending transactions via WebSockets before they hit the block.
+- **Scalable:** Built with a microservices architecture using Docker and Redis.
+
+---
 ###  [Chess Game in Java](https://github.com/dor-darmon/Chess)
 > A fully functional chess engine written in Java with object-oriented design.  
 > Includes move validation, game logic, and a clean user interface.
