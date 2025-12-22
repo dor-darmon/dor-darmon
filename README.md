@@ -11,7 +11,7 @@
 
 ##  Featured Projects
 
-###  [Multilayered Identity Document Forensic Pipeline]((https://github.com/dor-darmon/AI-detective))
+###  [AI-detective]((https://github.com/dor-darmon/AI-detective))
 > An R&D forensic tool designed to validate identity document integrity using Computer Vision, AI detection, and Digital Forensics.
 
 **Tech:** Python, OpenCV, Streamlit, NumPy, Pandas, SQLite3, FFT  
