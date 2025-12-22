@@ -11,6 +11,18 @@
 
 ##  Featured Projects
 
+###  [Multilayered Identity Document Forensic Pipeline]((https://github.com/dor-darmon/AI-detective))
+> An R&D forensic tool designed to validate identity document integrity using Computer Vision, AI detection, and Digital Forensics.
+
+**Tech:** Python, OpenCV, Streamlit, NumPy, Pandas, SQLite3, FFT  
+**Highlights:**
+- **AI & Deepfake Detection:** Uses Fast Fourier Transform (FFT) analysis to detect GAN/Diffusion model artifacts in the frequency domain.
+- **Digital Forensics (ELA):** Implements Error Level Analysis to flag manual alterations (e.g., Photoshop) via compression inconsistencies.
+- **Automated Quality Control:** Calculates Laplacian Variance for blur detection and validates checksum logic (Luhn Algorithm).
+- **Analytics Dashboard:** SQL-backed batch processing system with statistical visualizations (Seaborn/Matplotlib).
+
+---
+
 ###  [Dual-Chain Sentinel | BTC & ETH Anomaly Detection](https://github.com/dor-darmon/SentinelFlow)
 > A unified real-time surveillance system for Bitcoin and Ethereum blockchains, designed to detect high-value "Whale" anomalies using Unsupervised Machine Learning.
 
