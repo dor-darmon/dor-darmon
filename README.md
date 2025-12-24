@@ -83,5 +83,5 @@ Stay tuned for:
 
 ---
 ##  My GitHub Stats:
-![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dor-darmon&show_icons=true&theme=tokyonight&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dor-darmon&layout=compact&theme=tokyonight)
+![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dor-darmon&show_icons=true&theme=tokyonight&hide=issues&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dor-darmon&layout=compact&theme=tokyonight&cache_seconds=1800)
