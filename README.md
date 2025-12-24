@@ -83,12 +83,9 @@ Stay tuned for:
 
 ##  GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dor-darmon&show_icons=true&theme=tokyonight&hide=issues&cache_seconds=1800" alt="Dor's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dor-darmon&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="180px" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dor-darmon&theme=tokyonight&border_radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dor-darmon&layout=compact&theme=tokyonight&langs_count=8&card_width=400" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=dor-darmon&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </div>
