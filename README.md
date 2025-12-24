@@ -81,8 +81,14 @@ Stay tuned for:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-##  My GitHub Stats:
-![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dor-darmon&show_icons=true&theme=tokyonight&hide=issues&cache_seconds=1800)
+##  GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dor-darmon&show_icons=true&theme=tokyonight&hide=issues&cache_seconds=1800" alt="Dor's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dor-darmon&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="180px" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dor-darmon&layout=compact&theme=tokyonight&cache_seconds=1800)
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dor-darmon&theme=tokyonight&border_radius=10" width="100%" alt="Activity Graph" />
+</div>
